@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/EfDrift.Cli/EfDrift.Cli.csproj" />
+    <Project Path="src/EfDrift.Core/EfDrift.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/EfDrift.Tests/EfDrift.Tests.csproj" />
+  </Folder>
+</Solution>
